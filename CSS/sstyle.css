@@ -1,0 +1,18 @@
+"object-fit": (
+  responsive: true,
+  property: object-fit,
+  values: (
+    contain: contain,
+    cover: cover,
+    fill: fill,
+    scale: scale-down,
+    none: none,
+  )
+),
+.back-video{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: auto -1; 
+}
+
